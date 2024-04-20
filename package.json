@@ -2,7 +2,7 @@
   "name": "coolsor",
   "version": "1.0.0",
   "description": "Add a touch of personality to your webpages with Custom Cursors! This npm package allows you to easily integrate custom cursors, ranging from stylish designs to personalized icons, enhancing user experience and visual appeal. Choose from a collection of pre-designed cursors, with options to customize size, animation, and behavior. Perfect for web developers looking to add a unique flair to their projects and captivate their audience. Get started today and make your web presence unforgettable with Custom Cursors!",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "test"
   },
